@@ -8,11 +8,12 @@ public class AlgoritmoNuevo {
 		boolean copiaEnELExamen= true;
 		do{
 			System.out.println("tu notaes "+nota);
-			if(i>5){
+			if(i>20){
 				break;
 			}
 			i++;
 		}while(copiaEnELExamen);
+		System.out.println("buena onda");
 
 	}
 	
